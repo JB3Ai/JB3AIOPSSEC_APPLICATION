@@ -1,0 +1,7 @@
+{
+  "name": "QDentiFi + Patrolve Unified Security & Identity Platform",
+  "description": "JB3OPSSEC Unified platform integrating QDentiFi mobile field identity capture with Patrolve central core, real-time GPS patrol telemetry, automated AURA armed response dispatch, and security audit compliance.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
